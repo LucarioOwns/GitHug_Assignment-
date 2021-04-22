@@ -13,4 +13,4 @@ setInterval(() => {
   for(let letter of letters) {
   letter.style.color = randomRGB();
 }
-}, 500);
+}, 1000);
